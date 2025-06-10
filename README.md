@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hi, I'm Samir</h1>
+<h3 align="center">A Student Developer at George Mason University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samirdawar&label=Profile%20views&color=0e75b6&style=flat" alt="samirdawar" /> </p>
+- 🔭 I’m currently working on **an FTP Client/Server**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirdawar" alt="samirdawar" /></a> </p>
-
-- 🔭 I’m currently working on **a banking app in reactJS**
-
-- 🌱 I’m currently learning **C**
-
-- 📫 How to reach me **samir.dawar01@gmail.com**
-
-- ⚡ Fun fact **I am still in high school**
+- 🌱 I’m currently learning **GoLang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/samirdawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samirdawar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

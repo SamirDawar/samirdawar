@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Samir</h1>
 <h3 align="center">A Student Developer at George Mason University</h3>
 
-- 🔭 I’m currently working on **an FTP Client/Server**
-
-- 🌱 I’m currently learning **GoLang**
+LEARNING C++!!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

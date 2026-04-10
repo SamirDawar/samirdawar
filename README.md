@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Samir</h1>
-<h3 align="center">A Student Developer at George Mason University</h3>
-
-LEARNING C++!!!
+<h3 align="center">A Student at George Mason University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
